@@ -1,0 +1,8 @@
+
+<svg  fill="none" xmlns="http://www.w3.org/2000/svg">
+<symbol id="tick" viewBox="0 0 16 16" >
+    <g>
+        <path d="M5.5 14.3L0 8.9 1.5 7.5 5.5 11.5 14.5 2.4 16 3.8z"/>
+    </g>
+</symbol>
+</svg>
