@@ -5,7 +5,7 @@
 - CSS 
 - адаптив
 - слайдер Swiper.
-- [верстка по макетам Figma.](https://www.figma.com/file/aQD61QZf07daDAlLvgDuI8/Panteon)
+- [верстка по макету Figma.](https://www.figma.com/file/aQD61QZf07daDAlLvgDuI8/Panteon)
 
 
 ## Другие работы:
