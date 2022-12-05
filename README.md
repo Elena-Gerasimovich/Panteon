@@ -10,4 +10,4 @@
 
 ## Другие работы:
 
-- [Jetro. Многостраничный сайт. Работа выполнена на курсах](elena-gerasimovich.github.io/Jetro/) 
+- [Jetro. Многостраничный сайт. Работа выполнена на курсах](https://elena-gerasimovich.github.io/Jetro/) 
